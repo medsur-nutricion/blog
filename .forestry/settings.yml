@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: assets/images
-  label: Imágenes
-  create: documents
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all

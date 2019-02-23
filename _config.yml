@@ -11,7 +11,7 @@ email: asesoriamedsur@gmail.com
 description: >
   Últimas novedades de MedSur. Actualizaremos esta página con datos interesantes y recetas para nuestros pacientes.
 logo: "/assets/images/logo.jpg"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.medsur.cl" # the base hostname & protocol for your site
 paginate:	15 # The number of posts to show per page on your homepage
 

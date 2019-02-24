@@ -11,4 +11,3 @@ datos: BlEoEJBFJgK
   height="384"
   layout="responsive">
 </amp-instagram>
-<p>{{ datos }}</p>

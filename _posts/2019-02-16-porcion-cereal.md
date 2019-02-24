@@ -11,4 +11,3 @@ datos: BS85Suigo8X
   height="392"
   layout="responsive">
 </amp-instagram>
-<p>{{ datos }}</p>

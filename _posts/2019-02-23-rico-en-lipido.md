@@ -11,4 +11,3 @@ datos: BoRZF-cHCq3
   height="1"
   layout="responsive">
 </amp-instagram>
-<p>{{ datos }}</p>

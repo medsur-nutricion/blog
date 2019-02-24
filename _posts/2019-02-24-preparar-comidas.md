@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Lo mejor, coinar para varios días a la vez
+title: Lo mejor, cocinar para varios días a la vez
 instagram: true
 datos: BlEoEJBFJgK
 
 ---
 <amp-instagram data-shortcode="{{ page.datos }}"
   data-captioned
-  width="1"
-  height="1"
+  width="700"
+  height="384"
   layout="responsive">
 </amp-instagram>
 <p>{{ datos }}</p>

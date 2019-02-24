@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Muffin de Avena con murta! 
+title: Lo mejor, coinar para varios días a la vez
 instagram: true
-datos: BUrkpBvgJdA
----
+datos: BlEoEJBFJgK
 
+---
 <amp-instagram data-shortcode="{{ page.datos }}"
   data-captioned
-  width="700"
-  height="392"
+  width="1"
+  height="1"
   layout="responsive">
 </amp-instagram>
 <p>{{ datos }}</p>

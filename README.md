@@ -1,7 +1,7 @@
 # blog-medsur
 Blog del sitio medsur.cl
 
-- Blog [Jekyllrb](https://jekyllrb.com/)
+- Blog [Jekyllrb](https://jekyllrb.com/) y [Google AMP](https://www.ampproject.org/es/)
 
 Todos los derechos reservados © Quetru Ltda, 2019
 

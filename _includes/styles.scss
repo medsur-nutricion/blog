@@ -43,7 +43,7 @@ main {
 
 body {
   background-color: #fff;
-  font-family: 'Google Sans', 'Roboto', 'Noto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
@@ -177,7 +177,7 @@ body {
       display: block;
       font-size: 38px;
       line-height: 1.15;
-      margin: 0 0;
+      margin: 56px 0;
       a {
         text-decoration: none;
         color: #dd0074;
@@ -265,6 +265,7 @@ body {
     line-height: 1.1;
     color: #283593;
     margin-bottom: 50px;
+    font-family: $font-sans;
   }
   .author-image {
     background-image: url({{ site.baseurl }}{{site.author_image}});

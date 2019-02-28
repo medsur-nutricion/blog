@@ -75,7 +75,7 @@ body {
       font-size: 14px;
       font-weight: 500;
       position: absolute;
-      top: 9px;
+      top: 12px;
       right: $rs;
 
   }
@@ -241,6 +241,7 @@ body {
 .nav-item {
   text-decoration: none;
   color: white;
+  margin: 0 6px;
 }
 .nav-item {
   svg {
@@ -377,7 +378,7 @@ body {
       p {
         letter-spacing: 0.01rem;
         font-weight: 400;
-        mborder-left: 3px solid #57ad68;
+        mborder-left: 3px solid #dd0074;
         mpadding-left: 20px;
         mmargin-left: -26px;
         padding-bottom: 3px;
@@ -573,4 +574,32 @@ footer a {
   font-weight: 500;
   color: #222222;
   font-size: 14px;
+}
+.posts-categorias {
+  margin-top: 100px;
+  padding: 24px;
+
+  h1 {
+    color: #283593;
+    font-weight: 400;
+  }
+  h2 {
+    font-weight: 400;
+  }
+  .category-mark {
+    color: rgba(0,0,0,.65);
+    text-decoration: none;
+  }
+}
+.category-list {
+  a{
+    color: #dd0074;
+    text-decoration: none;
+    font-weight: 400;
+  } 
+  small {
+  color: rgba(0,0,0,.65);
+  font-size: 70%;
+  white-space:pre;
+  }
 }

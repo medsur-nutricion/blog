@@ -2,6 +2,7 @@
 layout: post
 title: Muffin de Avena con murta! 
 instagram: true
+category: recetas
 datos: BUrkpBvgJdA
 width: 700
 height: 392

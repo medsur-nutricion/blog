@@ -2,6 +2,7 @@
 layout: post
 title: Porción de cereal 
 instagram: true
+category: porciones
 datos: BS85Suigo8X
 width: 700
 height: 392

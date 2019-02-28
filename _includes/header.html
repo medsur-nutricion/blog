@@ -2,14 +2,14 @@
   <a href="https://medsur.cl/" class="titulo"><amp-img src="{{ site.baseurl }}/assets/images/medsur.svg" width="38" height="38"/></a><a href="https://medsur.cl/" class="titulo texto">MedSur</a>
 
   <div class="page-links">
-    <a class="nav-item" href="{{ site.baseurl }}/">Blog</a>
-    <a target="_blank" href="https://www.instagram.com/medsurpv/" rel="noopener" aria-label="Instagram"><amp-img style="margin-bottom: -6px; margin-left: 18px" src="{{ site.baseurl }}/assets/images/instagram-white.svg" width="24" height="24"></a>
-  	<a target="_blank" href="https://github.com/medsur-nutricion" rel="noopener" aria-label="Github"><amp-img style="margin-bottom: -6px; margin-left: 18px" src="{{ site.baseurl }}/assets/images/github-white.svg"  width="24" height="24"></a>
+    <a class="nav-item" href="{{ site.baseurl }}/">Blog</a> 
+<!--   	<a target="_blank" href="https://github.com/medsur-nutricion" rel="noopener" aria-label="Github"><amp-img style="margin-bottom: -6px; margin-left: 18px" src="{{ site.baseurl }}/assets/images/github-white.svg"  width="24" height="24"></a> -->
 
     {% for my_page in site.pages %}
       {% if my_page.title %}
-      • <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+        <a class="nav-item" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
       {% endif %}
     {% endfor %}
+    <a target="_blank" href="https://www.instagram.com/medsurpv/" rel="noopener" aria-label="Instagram"><amp-img style="margin-bottom: -8px; margin-left: 0px" src="{{ site.baseurl }}/assets/images/instagram-white.svg" width="24" height="24"></a>
   </div>
 </header>

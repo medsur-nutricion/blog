@@ -2,6 +2,7 @@
 layout: post
 title: Lo mejor, cocinar para varios días a la vez
 instagram: true
+category: datos
 datos: BlEoEJBFJgK
 width: 700
 height: 384
